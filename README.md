@@ -2,8 +2,6 @@
 
 Version 1.0
 
-# Media API Project Summary
-
 The Media API provides access to reviews and ratings for movies and music. The API is designed to be used with a browsable API client such as Postman and can be accessed using the URL 
 
 The Media API project uses Token authentication to ensure secure access to user data and functionality. Users can obtain an authentication token by logging in through the `/account/api/login/` endpoint. The token can then be used to access other endpoints that require authentication.
